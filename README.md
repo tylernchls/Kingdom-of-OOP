@@ -18,7 +18,7 @@ npm install
 ### Run tests
 
 ```bash
-gulp
+npm test
 ```
 
 ## Classes and Subclasses
